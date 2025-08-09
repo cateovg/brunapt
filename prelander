@@ -1,1 +1,75 @@
+<!DOCTYPE html><html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Conheça Bruna, brasileira em Portugal, e descubra histórias e momentos especiais." />
+  <title>Conheça Bruna</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(to bottom, #0d0d0d, #1a1a1a);
+      color: #fff;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      text-align: center;
+    }
+    header {
+      padding: 1rem;
+      font-size: 1.5rem;
+      font-weight: bold;
+      color: #ff4081;
+    }
+    img.hero {
+      max-width: 100%;
+      height: auto;
+      margin: 20px 0;
+      border: 3px solid #ff4081;
+      border-radius: 12px;
+    }
+    h1 {
+      font-size: 1.8rem;
+      margin-bottom: 0.5rem;
+    }
+    p {
+      max-width: 320px;
+      margin: 0 auto 1.5rem;
+      font-size: 1rem;
+      color: #ddd;
+    }
+    .btn {
+      display: inline-block;
+      background: #ff4081;
+      color: #fff;
+      padding: 0.75rem 1.5rem;
+      border-radius: 25px;
+      font-size: 1rem;
+      text-decoration: none;
+      transition: background 0.3s ease;
+    }
+    .btn:hover {
+      background: #e73370;
+    }
+    footer {
+      margin-top: 2rem;
+      font-size: 0.8rem;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <header>Bruna em Portugal</header>  <img src="photo_2025-08-08_21-12-42.jpg" alt="Foto de Bruna" class="hero" />  <h1>Conheça histórias e momentos especiais</h1>
+  <p>
+    Este espaço é reservado para pessoas que buscam uma conexão única e verdadeira.
+  </p>
+  <p><strong>Este conteúdo é apenas para maiores de 18 anos.</strong></p><a href="SUA_URL_DA_PAGINA_HOT_AQUI" class="btn">Sim, tenho mais de 18 anos</a>
 
+  <footer>
+    © 2025 Bruna. Todos os direitos reservados.
+  </footer>
+</body>
+</html>
